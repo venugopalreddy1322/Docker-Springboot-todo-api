@@ -1,4 +1,6 @@
-# todo-api
+# SpringBoot to-do-api
+# Docker Multi-stage-build
+# Docker best-practices
 Building a docker image from Springboot application
 Springboot application todo will communicate with mongoDB
 
