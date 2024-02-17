@@ -7,7 +7,7 @@
 		<version>2.5.2</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.pavan</groupId>
+	<groupId>com.venu</groupId>
 	<artifactId>todo</artifactId>
 	<version>1.0.0</version>
 	<name>todo</name>
