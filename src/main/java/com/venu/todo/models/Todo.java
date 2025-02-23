@@ -1,4 +1,4 @@
-package com.pavan.todo.models;
+package com.venu.todo.models;
 
 import java.util.Date;
 

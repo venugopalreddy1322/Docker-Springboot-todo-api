@@ -1,11 +1,11 @@
-package com.pavan.todo.controllers;
+package com.venu.todo.controllers;
 
 import java.util.List;
 
 import javax.validation.Valid;
 
-import com.pavan.todo.models.Todo;
-import com.pavan.todo.services.TodoService;
+import com.venu.todo.models.Todo;
+import com.venu.todo.services.TodoService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

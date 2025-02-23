@@ -1,6 +1,6 @@
-package com.pavan.todo.repositories;
+package com.venu.todo.repositories;
 
-import com.pavan.todo.models.Todo;
+import com.venu.todo.models.Todo;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;

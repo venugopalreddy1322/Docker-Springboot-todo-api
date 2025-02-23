@@ -1,4 +1,4 @@
-package com.pavan.todo;
+package com.venu.todo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

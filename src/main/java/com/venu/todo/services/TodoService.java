@@ -1,9 +1,9 @@
-package com.pavan.todo.services;
+package com.venu.todo.services;
 
 import java.util.List;
 
-import com.pavan.todo.models.Todo;
-import com.pavan.todo.repositories.TodoRepository;
+import com.venu.todo.models.Todo;
+import com.venu.todo.repositories.TodoRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Sort;
